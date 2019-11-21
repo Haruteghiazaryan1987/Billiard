@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Harut\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Harut\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_biliard.-835493624.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Harut\Desktop\Game git\Billiard\Billiard" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Key.cs" t="Include" />
+      <e p="Assets\Key2.cs" t="Include" />
+      <e p="Assets\Manager.cs" t="Include" />
+      <e p="Assets\Shar.cs" t="Include" />
+      <e p="Assets\SharVliz.cs" t="Include" />
+      <e p="Assets\SharVliz2.cs" t="Include" />
+      <e p="biliard.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
